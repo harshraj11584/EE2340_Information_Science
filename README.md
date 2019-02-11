@@ -6,4 +6,4 @@ For binary alphabet X = {0,1}, with p(0) = 0.75, estimated the value of P(n)=1âˆ
 P(n) is the probability that a randomly drawn n-vector is not Îµ-typical.
 
  
-### Dependencies : Python 3.6.7 - numpy 1.16.1, matplotlib 3.0.2, tkinter 8.6, scipy 1.2.0
+### Python 3.6.7 - numpy 1.16.1, matplotlib 3.0.2, tkinter 8.6, scipy 1.2.0
